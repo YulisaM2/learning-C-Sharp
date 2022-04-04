@@ -1,0 +1,13 @@
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/bin/Debug/netcoreapp3.1/ParamsExample.deps.json
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/bin/Debug/netcoreapp3.1/ParamsExample.runtimeconfig.json
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/bin/Debug/netcoreapp3.1/ParamsExample.runtimeconfig.dev.json
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/bin/Debug/netcoreapp3.1/ParamsExample.dll
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/bin/Debug/netcoreapp3.1/ParamsExample.pdb
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.csproj.AssemblyReference.cache
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.AssemblyInfoInputs.cache
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.AssemblyInfo.cs
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.csproj.CoreCompileInputs.cache
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.dll
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.pdb
+/Users/trinity/Desktop/learning-C-Sharp/ParamsExample/ParamsExample/obj/Debug/netcoreapp3.1/ParamsExample.genruntimeconfig.cache
